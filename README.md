@@ -28,7 +28,7 @@ Functions to make development faster
 
 • Simple usage : Use the source code as is in your projects or use the following CDN link.
   
-  CDN : 
+  CDN : https://devashishp1999.github.io/dev-script/main.min.js
   
   Useage : showToast( { text: "This is a toast", posi: 7 } )
   
