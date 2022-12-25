@@ -51,12 +51,13 @@ Use these function because:
 
 ## How To Get Started
 
-Just Call the *** Function! 😁
+Just Call () the *** Function! 😁
 
 ### Installation/ Usage
 
 •  Use the source code as is in your project Or include the following CDN link in your HTML.
 
+ CDN : 
    ```sh
    https://devashishp1999.github.io/funkyfunctions/main.min.js
    ```
